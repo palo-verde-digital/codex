@@ -1,0 +1,14 @@
+html, body {
+    background-color: black;
+    color: greenyellow;
+
+    margin: 0;
+    height: 100%;
+}
+
+#sigma-container {
+    width: 800px;
+    height: 600px;
+    background: white;
+    border: 1px solid #ccc;
+}
