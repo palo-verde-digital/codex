@@ -10,7 +10,7 @@
 - **public**: static content
     - **css**
     - **views**: go html templates
-- **main.ts**: initializes sigmaJS graph on DOM load
+- **main.ts**: initializes sigmaJS graph on DOM load (currently contains demo code)
 
 
 ## **Environment Setup**
